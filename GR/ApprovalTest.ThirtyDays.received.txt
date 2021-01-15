@@ -18,6 +18,7 @@ Backstage passes to a TAFKAL80ETC concert, 5, 48
 Backstage passes to a TAFKAL80ETC concert, 6, 48
 Backstage passes to a TAFKAL80ETC concert, 6, 47
 Backstage passes to a TAFKAL80ETC concert, 5, 47
+Backstage passes to a TAFKAL80ETC concert, 5, 47
 
 -------- day 1 --------
 name, sellIn, quality
@@ -37,6 +38,7 @@ Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 5, 49
+Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 
 -------- day 2 --------
@@ -58,6 +60,7 @@ Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
+Backstage passes to a TAFKAL80ETC concert, 3, 50
 
 -------- day 3 --------
 name, sellIn, quality
@@ -77,6 +80,7 @@ Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
+Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 
 -------- day 4 --------
@@ -98,6 +102,7 @@ Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, 1, 50
 
 -------- day 5 --------
 name, sellIn, quality
@@ -117,6 +122,7 @@ Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 
 -------- day 6 --------
@@ -138,6 +144,7 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
 
 -------- day 7 --------
 name, sellIn, quality
@@ -157,6 +164,7 @@ Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 
 -------- day 8 --------
@@ -178,6 +186,7 @@ Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
 
 -------- day 9 --------
 name, sellIn, quality
@@ -197,6 +206,7 @@ Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 
 -------- day 10 --------
@@ -218,6 +228,7 @@ Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
 
 -------- day 11 --------
 name, sellIn, quality
@@ -237,6 +248,7 @@ Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 
 -------- day 12 --------
@@ -258,6 +270,7 @@ Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
 
 -------- day 13 --------
 name, sellIn, quality
@@ -277,6 +290,7 @@ Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 
 -------- day 14 --------
@@ -298,6 +312,7 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
 
 -------- day 15 --------
 name, sellIn, quality
@@ -317,6 +332,7 @@ Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 
 -------- day 16 --------
@@ -338,6 +354,7 @@ Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
 
 -------- day 17 --------
 name, sellIn, quality
@@ -357,6 +374,7 @@ Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 
 -------- day 18 --------
@@ -378,6 +396,7 @@ Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
 
 -------- day 19 --------
 name, sellIn, quality
@@ -397,6 +416,7 @@ Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 
 -------- day 20 --------
@@ -418,6 +438,7 @@ Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
+Backstage passes to a TAFKAL80ETC concert, -15, 0
 
 -------- day 21 --------
 name, sellIn, quality
@@ -437,6 +458,7 @@ Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
+Backstage passes to a TAFKAL80ETC concert, -16, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
 
 -------- day 22 --------
@@ -458,6 +480,7 @@ Backstage passes to a TAFKAL80ETC concert, -17, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
 Backstage passes to a TAFKAL80ETC concert, -17, 0
+Backstage passes to a TAFKAL80ETC concert, -17, 0
 
 -------- day 23 --------
 name, sellIn, quality
@@ -477,6 +500,7 @@ Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
 Backstage passes to a TAFKAL80ETC concert, -17, 0
 Backstage passes to a TAFKAL80ETC concert, -17, 0
+Backstage passes to a TAFKAL80ETC concert, -18, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
 
 -------- day 24 --------
@@ -498,6 +522,7 @@ Backstage passes to a TAFKAL80ETC concert, -19, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
 Backstage passes to a TAFKAL80ETC concert, -19, 0
+Backstage passes to a TAFKAL80ETC concert, -19, 0
 
 -------- day 25 --------
 name, sellIn, quality
@@ -517,6 +542,7 @@ Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -20, 0
 Backstage passes to a TAFKAL80ETC concert, -19, 0
 Backstage passes to a TAFKAL80ETC concert, -19, 0
+Backstage passes to a TAFKAL80ETC concert, -20, 0
 Backstage passes to a TAFKAL80ETC concert, -20, 0
 
 -------- day 26 --------
@@ -538,6 +564,7 @@ Backstage passes to a TAFKAL80ETC concert, -21, 0
 Backstage passes to a TAFKAL80ETC concert, -20, 0
 Backstage passes to a TAFKAL80ETC concert, -20, 0
 Backstage passes to a TAFKAL80ETC concert, -21, 0
+Backstage passes to a TAFKAL80ETC concert, -21, 0
 
 -------- day 27 --------
 name, sellIn, quality
@@ -557,6 +584,7 @@ Backstage passes to a TAFKAL80ETC concert, -17, 0
 Backstage passes to a TAFKAL80ETC concert, -22, 0
 Backstage passes to a TAFKAL80ETC concert, -21, 0
 Backstage passes to a TAFKAL80ETC concert, -21, 0
+Backstage passes to a TAFKAL80ETC concert, -22, 0
 Backstage passes to a TAFKAL80ETC concert, -22, 0
 
 -------- day 28 --------
@@ -578,6 +606,7 @@ Backstage passes to a TAFKAL80ETC concert, -23, 0
 Backstage passes to a TAFKAL80ETC concert, -22, 0
 Backstage passes to a TAFKAL80ETC concert, -22, 0
 Backstage passes to a TAFKAL80ETC concert, -23, 0
+Backstage passes to a TAFKAL80ETC concert, -23, 0
 
 -------- day 29 --------
 name, sellIn, quality
@@ -598,6 +627,7 @@ Backstage passes to a TAFKAL80ETC concert, -24, 0
 Backstage passes to a TAFKAL80ETC concert, -23, 0
 Backstage passes to a TAFKAL80ETC concert, -23, 0
 Backstage passes to a TAFKAL80ETC concert, -24, 0
+Backstage passes to a TAFKAL80ETC concert, -24, 0
 
 -------- day 30 --------
 name, sellIn, quality
@@ -617,5 +647,6 @@ Backstage passes to a TAFKAL80ETC concert, -20, 0
 Backstage passes to a TAFKAL80ETC concert, -25, 0
 Backstage passes to a TAFKAL80ETC concert, -24, 0
 Backstage passes to a TAFKAL80ETC concert, -24, 0
+Backstage passes to a TAFKAL80ETC concert, -25, 0
 Backstage passes to a TAFKAL80ETC concert, -25, 0
 

@@ -37,6 +37,7 @@ namespace GR
                 new Item {Name = "", SellIn = 10, Quality = 20},
                 new Item {Name = "", SellIn = 11, Quality = 20},
                 new Item {Name = "Aged Brie"},
+                
                 // new Item {Name = "Sulfuras, Hand of Ragnaros", SellIn = 0, Quality = 80},
                 new Item {Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 15, Quality = 50},
                 new Item {Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 15, Quality = 49},
@@ -56,6 +57,8 @@ namespace GR
                 
                 new Item {Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 6, Quality = 47},
                 new Item {Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 5, Quality = 47},
+                
+                new Item {Name = "Backstage passes to a TAFKAL80ETC concert", SellIn = 5, Quality = 47}
             };
 
             var app = new GildedRose(Items);
