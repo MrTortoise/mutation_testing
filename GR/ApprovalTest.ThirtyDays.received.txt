@@ -1,4 +1,4 @@
-OMGHAI!
+﻿OMGHAI!
 -------- day 0 --------
 name, sellIn, quality
 +5 Dexterity Vest, 10, 20
@@ -24,7 +24,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 9, 19
 , 9, 19
 , 10, 19
-Aged Brie, -1, 2
+Aged Brie, -1, 0
 Backstage passes to a TAFKAL80ETC concert, 14, 50
 Backstage passes to a TAFKAL80ETC concert, 14, 50
 Backstage passes to a TAFKAL80ETC concert, 10, 50
@@ -44,7 +44,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 8, 18
 , 8, 18
 , 9, 18
-Aged Brie, -2, 4
+Aged Brie, -2, 0
 Backstage passes to a TAFKAL80ETC concert, 13, 50
 Backstage passes to a TAFKAL80ETC concert, 13, 50
 Backstage passes to a TAFKAL80ETC concert, 9, 50
@@ -64,7 +64,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 7, 17
 , 7, 17
 , 8, 17
-Aged Brie, -3, 6
+Aged Brie, -3, 0
 Backstage passes to a TAFKAL80ETC concert, 12, 50
 Backstage passes to a TAFKAL80ETC concert, 12, 50
 Backstage passes to a TAFKAL80ETC concert, 8, 50
@@ -84,7 +84,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 6, 16
 , 6, 16
 , 7, 16
-Aged Brie, -4, 8
+Aged Brie, -4, 0
 Backstage passes to a TAFKAL80ETC concert, 11, 50
 Backstage passes to a TAFKAL80ETC concert, 11, 50
 Backstage passes to a TAFKAL80ETC concert, 7, 50
@@ -104,7 +104,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 5, 15
 , 5, 15
 , 6, 15
-Aged Brie, -5, 10
+Aged Brie, -5, 0
 Backstage passes to a TAFKAL80ETC concert, 10, 50
 Backstage passes to a TAFKAL80ETC concert, 10, 50
 Backstage passes to a TAFKAL80ETC concert, 6, 50
@@ -124,7 +124,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 4, 14
 , 4, 14
 , 5, 14
-Aged Brie, -6, 12
+Aged Brie, -6, 0
 Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 5, 50
@@ -144,7 +144,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 3, 13
 , 3, 13
 , 4, 13
-Aged Brie, -7, 14
+Aged Brie, -7, 0
 Backstage passes to a TAFKAL80ETC concert, 8, 50
 Backstage passes to a TAFKAL80ETC concert, 8, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
@@ -164,7 +164,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 2, 12
 , 2, 12
 , 3, 12
-Aged Brie, -8, 16
+Aged Brie, -8, 0
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
@@ -184,7 +184,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 1, 11
 , 1, 11
 , 2, 11
-Aged Brie, -9, 18
+Aged Brie, -9, 0
 Backstage passes to a TAFKAL80ETC concert, 6, 50
 Backstage passes to a TAFKAL80ETC concert, 6, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
@@ -204,7 +204,7 @@ name, sellIn, quality
 +5 Dexterity Vest, 0, 10
 , 0, 10
 , 1, 10
-Aged Brie, -10, 20
+Aged Brie, -10, 0
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
@@ -224,7 +224,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -1, 8
 , -1, 8
 , 0, 9
-Aged Brie, -11, 22
+Aged Brie, -11, 0
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
@@ -244,7 +244,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -2, 6
 , -2, 6
 , -1, 7
-Aged Brie, -12, 24
+Aged Brie, -12, 0
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, -1, 0
@@ -264,7 +264,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -3, 4
 , -3, 4
 , -2, 5
-Aged Brie, -13, 26
+Aged Brie, -13, 0
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
 Backstage passes to a TAFKAL80ETC concert, -2, 0
@@ -284,7 +284,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -4, 2
 , -4, 2
 , -3, 3
-Aged Brie, -14, 28
+Aged Brie, -14, 0
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
 Backstage passes to a TAFKAL80ETC concert, -3, 0
@@ -304,7 +304,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -5, 0
 , -5, 0
 , -4, 1
-Aged Brie, -15, 30
+Aged Brie, -15, 0
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
 Backstage passes to a TAFKAL80ETC concert, -4, 0
@@ -324,7 +324,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -6, 0
 , -6, 0
 , -5, 0
-Aged Brie, -16, 32
+Aged Brie, -16, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -1, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
@@ -344,7 +344,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -7, 0
 , -7, 0
 , -6, 0
-Aged Brie, -17, 34
+Aged Brie, -17, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -2, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
@@ -364,7 +364,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -8, 0
 , -8, 0
 , -7, 0
-Aged Brie, -18, 36
+Aged Brie, -18, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -3, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
@@ -384,7 +384,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -9, 0
 , -9, 0
 , -8, 0
-Aged Brie, -19, 38
+Aged Brie, -19, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -4, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
@@ -404,7 +404,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -10, 0
 , -10, 0
 , -9, 0
-Aged Brie, -20, 40
+Aged Brie, -20, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -5, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
@@ -424,7 +424,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -11, 0
 , -11, 0
 , -10, 0
-Aged Brie, -21, 42
+Aged Brie, -21, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -6, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
@@ -444,7 +444,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -12, 0
 , -12, 0
 , -11, 0
-Aged Brie, -22, 44
+Aged Brie, -22, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -7, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
@@ -464,7 +464,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -13, 0
 , -13, 0
 , -12, 0
-Aged Brie, -23, 46
+Aged Brie, -23, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -8, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
@@ -484,7 +484,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -14, 0
 , -14, 0
 , -13, 0
-Aged Brie, -24, 48
+Aged Brie, -24, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -9, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
@@ -504,7 +504,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -15, 0
 , -15, 0
 , -14, 0
-Aged Brie, -25, 50
+Aged Brie, -25, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -10, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
@@ -524,7 +524,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -16, 0
 , -16, 0
 , -15, 0
-Aged Brie, -26, 50
+Aged Brie, -26, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -11, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
@@ -544,7 +544,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -17, 0
 , -17, 0
 , -16, 0
-Aged Brie, -27, 50
+Aged Brie, -27, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -12, 0
 Backstage passes to a TAFKAL80ETC concert, -16, 0
@@ -564,7 +564,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -18, 0
 , -18, 0
 , -17, 0
-Aged Brie, -28, 50
+Aged Brie, -28, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -13, 0
 Backstage passes to a TAFKAL80ETC concert, -17, 0
@@ -584,7 +584,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -19, 0
 , -19, 0
 , -18, 0
-Aged Brie, -29, 50
+Aged Brie, -29, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -14, 0
 Backstage passes to a TAFKAL80ETC concert, -18, 0
@@ -604,7 +604,7 @@ name, sellIn, quality
 +5 Dexterity Vest, -20, 0
 , -20, 0
 , -19, 0
-Aged Brie, -30, 50
+Aged Brie, -30, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -15, 0
 Backstage passes to a TAFKAL80ETC concert, -19, 0
